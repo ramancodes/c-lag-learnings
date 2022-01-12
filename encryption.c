@@ -72,7 +72,7 @@ int main()
     fscanf(ptr, "%d", &correct_pin);
     fclose(ptr);
 
-    //printf("Hint - Username = %s and pin = %d\n\n", correct_username, correct_pin); //hint
+    //printf("Hint - Username = %s and pin = %d\n\n", correct_username, correct_pin); //uncomment to check what are the correct credentials
 
     password(correct_pin, correct_username);
     printf("\nCompleted\n\n");
