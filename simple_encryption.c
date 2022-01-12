@@ -65,7 +65,7 @@ int main()
     long int correct_pin = 4444; //correct pin 
     char correct_username[20] = "user"; //correct username
 
-    //printf("Hint - Username = %s and pin = %d\n\n", correct_username, correct_pin); //hint
+    //printf("Hint - Username = %s and pin = %d\n\n", correct_username, correct_pin); //hint to check the correct credentials
 
     password(correct_pin, correct_username);
     printf("\nCompleted\n\n");
