@@ -11,7 +11,7 @@ int main()
     printf("\t\tCreate or Change your Credentials Here\n\n");
     printf("\t\tEnter New Username(max 20 characters) : ");
     
-    //enter the credentials
+    //enter the credentials for the encryption program in step 2
     scanf("%s", username);
     len = strlen(username);
     printf("\t\tEnter new 4 digit Pin : ");
