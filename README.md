@@ -7,6 +7,12 @@ For changing the the credentials of the enryption program, the credentials.c fil
 For simple encryption program - 
 The program simple_encrytion can be used normally. The password can be changed inside the program which are marked with comments.
 
+For Stack -
+All the basic opertaions on a stack are shown here.
+
+For Queue -
+All the basic opertaions on a queue are shown here.
+
 For Singly linked List program - 
 In this program almost all the basic operations to be performed on a singly linked list are shown.
 
